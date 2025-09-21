@@ -2,7 +2,7 @@
 
 A bit about me:
 - Studying software engineering @ TUGraz
-- Obsessed with making (mostly) useless software that is supposed to make life easier for me, like [ImageDateSorter](https://github.com/j413x/ImageDateSorter) (Name in progress)
+- Obsessed with making (mostly) useless software that is supposed to make life easier for me, like [Stimeline](https://github.com/j413x/Stimeline)
 - Occationally I also make some games, which are far from finished, but it's fun making them :)
 
 ## 💻 Technologies & Tools
