@@ -13,7 +13,7 @@ A bit about me:
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,clion,idea,pycharm,rider,unity,vscode,raspberrypi,postgres,mysql,sqlite,docker,obsidian,arduino" />
+    <img src="https://skillicons.dev/icons?i=linux,clion,idea,pycharm,rider,unity,vscode,raspberrypi,postgres,mysql,docker,obsidian,arduino" />
   </a>
 </p>
 
